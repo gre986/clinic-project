@@ -12,17 +12,17 @@
         <div class="col-md-4 col-sm-12 leftalign">
           <div class="templatemo_contacttitle">Contact Information</div>
           <div class="clear"></div>
-          <p>This medical web application is designed for CPSC 597</p>
+          <p>This medical web application is designed for csu 405</p>
           <div class="templatemo_address">
             <ul>
               <li class="left fa fa-map-marker"></li>
-              <li class="right">800 N. State College Blvd. <br>Fullerton, CA 92831-3599</li>
+              <li class="right"> <br>San Bernadino, CA 92831-3599</li>
               <li class="clear"></li>
               <li class="left fa fa-phone"></li>
               <li class="right">(818)932-4960</li>
               <li class="clear"></li>
               <li class="left fa fa-envelope"></li>
-              <li class="right">boyuan@csu.fullerton.edu</li>
+              <li class="right">Justin@gmail.com</li>
             </ul>
           </div>
         </div>
